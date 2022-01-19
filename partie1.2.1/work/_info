@@ -1,0 +1,76 @@
+m255
+K3
+13
+cModel Technology
+dD:\MyPC\modelsim\modelsim_ase\examples
+Etelemetre_us
+Z0 w1604675485
+Z1 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z3 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z5 dD:\S7\archi_de_processeur\mini_projet\partie1.2.1
+Z6 8D:/S7/archi_de_processeur/mini_projet/partie1.2.1/Telemetre_us.vhd
+Z7 FD:/S7/archi_de_processeur/mini_projet/partie1.2.1/Telemetre_us.vhd
+l0
+L6
+V1JEm^DLXE9c5S`8D_M`US0
+!s100 jmWz0FGUC:Z<]39ceg]YV1
+Z8 OV;C;6.5b;42
+32
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Aone
+R1
+R2
+R3
+R4
+DEx4 work 12 telemetre_us 0 22 1JEm^DLXE9c5S`8D_M`US0
+l31
+L21
+VZFJWgn[FR^Y36hfRFVMSe2
+Z11 !s100 P>1=IiFBbboUkc_AYdl0o3
+R8
+32
+Z12 Mx4 4 ieee 14 std_logic_1164
+Z13 Mx3 4 ieee 11 numeric_std
+Z14 Mx2 4 ieee 18 std_logic_unsigned
+Z15 Mx1 4 ieee 15 std_logic_arith
+R9
+R10
+Etelemetre_us_banc
+Z16 w1605107254
+R1
+R2
+R3
+R4
+R5
+Z17 8D:/S7/archi_de_processeur/mini_projet/partie1.2.1/Telemetre_us_banc.vhd
+Z18 FD:/S7/archi_de_processeur/mini_projet/partie1.2.1/Telemetre_us_banc.vhd
+l0
+L6
+VT8DNcB3h]QJ9jIA@n@g9:2
+R8
+32
+R9
+R10
+!s100 NaEOmJ[RM_nB=G>cj2Z[b0
+Aone
+Z19 DEx4 work 12 telemetre_us 0 22 n:GaleeG5C[17SMA@?d?N2
+R1
+R2
+R3
+R4
+DEx4 work 17 telemetre_us_banc 0 22 T8DNcB3h]QJ9jIA@n@g9:2
+l23
+L12
+V;j>aaaeH=YejTTIelPMc93
+!s100 ^JJ]>K^]o[J?38@g8YmN?3
+R8
+32
+R12
+R13
+R14
+R15
+R9
+R10

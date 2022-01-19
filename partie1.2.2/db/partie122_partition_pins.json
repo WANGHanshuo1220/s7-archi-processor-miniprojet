@@ -1,0 +1,193 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "trig",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[8]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[9]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[10]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[11]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[12]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[13]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[14]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[15]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[16]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[17]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[18]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[19]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[20]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[21]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[22]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[23]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[24]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[25]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[26]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[27]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[28]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[29]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[30]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[31]",
+					"strict" : false
+				},
+				{
+					"name" : "read",
+					"strict" : false
+				},
+				{
+					"name" : "chipselect",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "echo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

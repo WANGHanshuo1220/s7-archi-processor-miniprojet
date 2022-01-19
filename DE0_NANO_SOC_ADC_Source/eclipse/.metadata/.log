@@ -1,0 +1,41 @@
+!SESSION 2020-11-06 16:20:18.118 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -pluginCustomization D:/mypc/quartus/quartus/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -pluginCustomization D:/mypc/quartus/quartus/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-11-06 16:21:14.383
+!MESSAGE Indexed 'miniProjet_telemetre_us_bsp' (80 sources, 144 headers) in 1.10 sec: 4,800 declarations; 7,762 references; 64 unresolved inclusions; 3 syntax errors; 129 unresolved names (1.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-11-06 16:21:14.925
+!MESSAGE Indexed 'miniProjet_telemetre_us' (1 sources, 0 headers) in 0.00 sec: 1 declarations; 1 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2020-11-06 16:22:06.994
+!MESSAGE Executing: [D:/mypc/quartus/quartus/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x81018 --id=0x0 --timestamp=1604675535]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2020-11-06 16:22:08.973
+!MESSAGE Executing: [D:/mypc/quartus/quartus/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x81018 --id=0x0 --timestamp=1604675535 /cygdrive/d/S7/archi_de_processeur/mini_projet/DE0_NANO_SOC_ADC_Source/software/miniProjet_telemetre_us/miniProjet_telemetre_us.elf]
+!SESSION 2020-11-11 16:03:04.939 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -pluginCustomization D:/mypc/quartus/quartus/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -pluginCustomization D:/mypc/quartus/quartus/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-11-11 16:03:08.780
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.altera.sbtgui.launch 1 0 2020-11-11 16:03:45.950
+!MESSAGE Executing: [D:/mypc/quartus/quartus/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x81018 --id=0x0 --timestamp=1604675535]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2020-11-11 16:03:48.894
+!MESSAGE Executing: [D:/mypc/quartus/quartus/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x81018 --id=0x0 --timestamp=1604675535 /cygdrive/d/S7/archi_de_processeur/mini_projet/DE0_NANO_SOC_ADC_Source/software/miniProjet_telemetre_us/miniProjet_telemetre_us.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2020-11-11 16:04:45.534
+!MESSAGE Executing: [D:/mypc/quartus/quartus/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x81018 --id=0x0 --timestamp=1604675535]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2020-11-11 16:04:48.005
+!MESSAGE Executing: [D:/mypc/quartus/quartus/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x81018 --id=0x0 --timestamp=1604675535 /cygdrive/d/S7/archi_de_processeur/mini_projet/DE0_NANO_SOC_ADC_Source/software/miniProjet_telemetre_us/miniProjet_telemetre_us.elf]
